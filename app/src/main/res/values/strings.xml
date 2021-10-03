@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shelflife</string>
+    <string name="save">save</string>
+    <string-array name="type_array">
+        <item>Fridge</item>
+        <item>Pantry</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
