@@ -34,5 +34,3 @@ AddItemActivity will start when the user clicks add on the MainActivity. This al
 
 If I had more time I would have added an update event method in the EditItemActivity. Because I couldn't get it to work on the emulator I never got to updated the event. As well as this I would have liked to have
 had some sort of countdown function that showed a time remaining for items.
-
-Video link: https://youtu.be/Idyw7VixUKI
